@@ -1,0 +1,2 @@
+- mini project database
+- bat folder store .bat file for test notification
